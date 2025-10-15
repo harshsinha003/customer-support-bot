@@ -9,14 +9,18 @@ A modern, intelligent customer support chatbot powered by Google Gemini AI with 
 
 ## 🎬 **Demo Video**
 
-> **📹 [Watch Demo Video](./demo-video.mp4)**  
-> *Click to download and watch the complete demo of the AI Customer Support Bot in action*
+<video width="100%" controls>
+  <source src="./demo-video.mp4" type="video/mp4">
+  <p>Your browser doesn't support HTML video. <a href="./demo-video.mp4">Download the video</a> instead.</p>
+</video>
 
 **Video showcases:**
 - Complete chat interface walkthrough
 - AI responses with formatting and confidence levels  
 - FAQ handling and escalation features
 - Real-time conversation flow
+
+> *Click the play button above to watch the complete demo of the AI Customer Support Bot in action*
 
 ## 📸 **Screenshots**
 
