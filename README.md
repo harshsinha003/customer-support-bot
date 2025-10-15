@@ -7,26 +7,6 @@ A modern, intelligent customer support chatbot powered by Google Gemini AI with 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-orange)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🎬 **Demo Video**
-
-[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Video-blue?style=for-the-badge)](https://github.com/harshsinha003/customer-support-bot/blob/main/demo-video.mp4)
-
-**Video showcases:**
-- Complete chat interface walkthrough
-- AI responses with formatting and confidence levels  
-- FAQ handling and escalation features
-- Real-time conversation flow
-
-> *Click the button above to watch the demo video. GitHub will show a video player.*
-
----
-
-### 🎥 **Direct Video Access**
-```
-📹 File: demo-video.mp4 (67.3 MB)
-🔗 Direct Link: https://github.com/harshsinha003/customer-support-bot/blob/main/demo-video.mp4
-```
-
 ## 📸 **Screenshots**
 
 ### Chat Interface
@@ -36,6 +16,18 @@ A modern, intelligent customer support chatbot powered by Google Gemini AI with 
 ### AI Response Example  
 ![AI Response with Formatting](screenshots/ai-response-example.png)
 *Example of intelligent AI response to "What's your refund policy?" showing 90% confidence, structured formatting with numbered steps, and specific policy details including timeframes and restrictions.*
+
+## 🎬 **Demo Video**
+
+![Demo Video](https://github.com/harshsinha003/customer-support-bot/raw/main/demo-video.mp4)
+
+**Video showcases:**
+- Complete chat interface walkthrough
+- AI responses with formatting and confidence levels  
+- FAQ handling and escalation features
+- Real-time conversation flow
+
+> *Click on the video above to play the demo directly in GitHub*
 
 ## �🎯 **Prompt Engineering Documentation**
 
