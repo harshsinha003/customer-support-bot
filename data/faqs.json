@@ -1,0 +1,74 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What are your customer support hours?",
+      "answer": "Our customer support team is available Monday through Friday, 9 AM to 6 PM EST. For urgent matters outside these hours, you can email support@company.com and we'll respond within 24 hours. We also offer live chat during business hours.",
+      "category": "general",
+      "keywords": ["hours", "timing", "when open", "availability", "schedule", "support hours", "contact"]
+    },
+    {
+      "id": 2,
+      "question": "How do I reset my password?",
+      "answer": "To reset your password: 1) Click 'Forgot Password' on the login page, 2) Enter your email address, 3) Check your email for a reset link, 4) Click the link and create a new password. The link expires in 24 hours. If you continue having issues, contact our support team.",
+      "category": "account",
+      "keywords": ["password", "reset", "forgot password", "login", "access", "sign in"]
+    },
+    {
+      "id": 3,
+      "question": "What is your refund policy?",
+      "answer": "We offer a 30-day money-back guarantee on all purchases. To request a refund: 1) Contact our support team with your order number, 2) Provide reason for refund, 3) We'll process it within 5-7 business days to your original payment method. Some restrictions may apply for digital products.",
+      "category": "billing",
+      "keywords": ["refund", "money back", "return", "cancel", "reimbursement", "guarantee"]
+    },
+    {
+      "id": 4,
+      "question": "How do I track my order?",
+      "answer": "To track your order: 1) Check your email for the tracking number sent after shipment, 2) Visit our order tracking page, 3) Enter your order number and email, 4) View real-time delivery status. Orders typically ship within 24-48 hours and tracking updates every few hours.",
+      "category": "shipping",
+      "keywords": ["track order", "shipping", "delivery", "order status", "package", "tracking number"]
+    },
+    {
+      "id": 5,
+      "question": "Do you offer technical support?",
+      "answer": "Yes! We provide comprehensive technical support via email, live chat, and phone. For software issues, please include your system specifications and error messages. Our technical team typically responds within 2-4 hours during business hours. We also have an extensive knowledge base and video tutorials available 24/7.",
+      "category": "technical",
+      "keywords": ["technical support", "tech help", "bug", "error", "not working", "software issue"]
+    },
+    {
+      "id": 6,
+      "question": "How do I upgrade my subscription plan?",
+      "answer": "To upgrade your subscription: 1) Log into your account dashboard, 2) Go to 'Settings' > 'Subscription', 3) Click 'Upgrade Plan', 4) Select your new plan and confirm payment. You'll be charged a prorated amount for the remainder of your billing cycle. Changes take effect immediately.",
+      "category": "billing",
+      "keywords": ["upgrade", "subscription", "plan", "premium", "higher tier", "billing"]
+    },
+    {
+      "id": 7,
+      "question": "Is my data secure and private?",
+      "answer": "Absolutely! We take data security seriously. All data is encrypted in transit (TLS 1.3) and at rest (AES-256). We're SOC 2 Type II certified and GDPR compliant. We never share your personal data with third parties without your explicit consent. Regular security audits ensure your information stays protected.",
+      "category": "security",
+      "keywords": ["security", "privacy", "data protection", "safe", "encryption", "GDPR"]
+    },
+    {
+      "id": 8,
+      "question": "Can I cancel my subscription anytime?",
+      "answer": "Yes, you can cancel your subscription at any time with no cancellation fees. Your service will remain active until the end of your current billing period. To cancel: go to Settings > Subscription > Cancel Subscription, or contact our support team. We'll also send a confirmation email.",
+      "category": "billing",
+      "keywords": ["cancel", "subscription", "stop", "terminate", "unsubscribe", "billing"]
+    },
+    {
+      "id": 9,
+      "question": "How do I contact a human agent?",
+      "answer": "You can reach our human support team through: 1) Live chat during business hours (9 AM - 6 PM EST), 2) Email us at support@company.com, 3) Phone support at 1-800-SUPPORT, 4) Submit a ticket through your account dashboard. For urgent issues, use live chat or phone for fastest response.",
+      "category": "contact",
+      "keywords": ["human agent", "contact", "live chat", "phone", "email", "support team"]
+    },
+    {
+      "id": 10,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major payment methods: Credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, and bank transfers. All transactions are secured with SSL encryption. For enterprise customers, we also offer invoice billing and ACH transfers.",
+      "category": "billing",
+      "keywords": ["payment", "credit card", "paypal", "billing", "payment methods", "transactions"]
+    }
+  ]
+}

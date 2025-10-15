@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Customer Support Bot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>🤖 Customer Support</h1>
+            <p class="status" id="status">Connecting...</p>
+        </div>
+
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-content">
+                    <strong>Support Bot:</strong>
+                    <p>Hello! I'm here to help you with your questions and concerns. I can assist with account issues, technical problems, billing inquiries, and general support. How can I help you today?</p>
+                </div>
+                <span class="timestamp">Just now</span>
+            </div>
+        </div>
+
+        <div class="escalation-banner" id="escalationBanner" style="display: none;">
+            <p>⚠️ Having trouble? <button id="escalateBtn" class="escalate-button">Talk to a Human Agent</button></p>
+        </div>
+
+        <div class="chat-input-container">
+            <textarea id="userInput" placeholder="Type your message here..." rows="2"></textarea>
+            <button id="sendBtn" class="send-button">
+                <span>Send</span>
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                    <path d="M2 10L18 2L10 18L8 11L2 10Z" stroke="white" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                </svg>
+            </button>
+        </div>
+
+        <div class="session-info">
+            <small>Session ID: <span id="sessionId">Not connected</span></small>
+            <button id="newSessionBtn" class="new-session-btn">New Conversation</button>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
