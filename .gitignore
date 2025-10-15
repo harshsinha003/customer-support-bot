@@ -31,6 +31,9 @@ secrets/
 STATUS_REPORT.md
 status_report.md
 
+# Local Development Files (keep locally only)
+DEMO_VIDEO_SCRIPT.md
+
 # IDE
 .vscode/
 .idea/
