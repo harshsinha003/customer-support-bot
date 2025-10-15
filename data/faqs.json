@@ -17,9 +17,23 @@
     {
       "id": 3,
       "question": "What is your refund policy?",
-      "answer": "We offer a 30-day money-back guarantee on all purchases. To request a refund: 1) Contact our support team with your order number, 2) Provide reason for refund, 3) We'll process it within 5-7 business days to your original payment method. Some restrictions may apply for digital products.",
+      "answer": "We offer a **30-day money-back guarantee** on all purchases. To request a refund: 1) Contact our support team with your order number, 2) Provide reason for refund, 3) We'll process it within 5-7 business days to your original payment method. Some restrictions may apply for digital products.",
       "category": "billing",
       "keywords": ["refund", "money back", "return", "cancel", "reimbursement", "guarantee"]
+    },
+    {
+      "id": 11,
+      "question": "What is your exchange policy?",
+      "answer": "We offer **free exchanges within 30 days** of purchase! Here's what you can exchange: **Physical products** (clothing, electronics, books, home goods), **Subscription plans** (upgrade/downgrade anytime), **Software licenses** (within 14 days). **Non-exchangeable items**: Digital downloads after use, personalized/custom items, perishable goods. To exchange: Contact us with your order number and preferred replacement item.",
+      "category": "billing",
+      "keywords": ["exchange", "swap", "replace", "change", "exchange policy", "return", "different item", "substitute"]
+    },
+    {
+      "id": 12,
+      "question": "Which products can I exchange?",
+      "answer": "**Exchangeable products**: All physical items (clothing, electronics, books, home goods, accessories), subscription plans, unused software licenses, unopened consumables. **Requirements**: Items must be in original condition, with tags/packaging, within 30 days of purchase. **Non-exchangeable**: Downloaded digital content after activation, personalized items, opened consumables, final sale items. **Free exchanges** - we cover return shipping!",
+      "category": "billing", 
+      "keywords": ["exchangeable", "what can exchange", "exchange items", "products", "eligible", "swap items", "replace products"]
     },
     {
       "id": 4,

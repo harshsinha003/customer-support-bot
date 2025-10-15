@@ -135,12 +135,6 @@ const demoQueries = [
 - "Building Intelligent Chatbots with Google Gemini & FastAPI"
 - "Prompt Engineering Showcase: Customer Support AI Bot"
 
-### After Recording - Update README:
-1. Upload video to YouTube/Vimeo
-2. Copy the video URL
-3. Replace `https://your-video-link-here` in README.md with actual link
-4. Update video description with GitHub repo link
-
 ---
 
 ## 📝 Video Description Template
