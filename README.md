@@ -7,7 +7,26 @@ A modern, intelligent customer support chatbot powered by Google Gemini AI with 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-orange)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🎯 **Prompt Engineering Documentation**
+## � **Demo Video**
+
+> **📹 [Watch Demo Video](https://your-video-link-here)**  
+> *Replace with your actual demo video link (YouTube, Vimeo, etc.)*
+
+## 📸 **Screenshots**
+
+### Chat Interface
+![Chat Interface Screenshot](screenshots/chat-interface.png)
+*Replace with actual screenshot of your chat interface*
+
+### AI Response Example
+![AI Response Example](screenshots/ai-response-example.png)
+*Replace with screenshot showing AI responses with formatting*
+
+### Technical Architecture
+![Architecture Diagram](screenshots/architecture-diagram.png)
+*Replace with system architecture diagram*
+
+## �🎯 **Prompt Engineering Documentation**
 
 This section documents the sophisticated prompt engineering techniques used to create an effective AI customer support agent.
 
@@ -653,9 +672,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Harshvardhan Sinha**
+- GitHub: [@harshsinha003](https://github.com/harshsinha003)
+- LinkedIn: [Harshvardhan Sinha](https://www.linkedin.com/in/harshvardhan-sinha-8306a02a7/)
 
 ## 🙏 Acknowledgments
 
