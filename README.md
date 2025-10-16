@@ -691,7 +691,7 @@ If you have questions or need help:
 
 1. Check the [FAQ section](#-faq-system)
 2. Open an [issue](https://github.com/yourusername/ai-customer-support-bot/issues)
-3. Contact: your.email@example.com
+3. Contact: harshvardhansinha88@gmail.com
 
 ---
 
