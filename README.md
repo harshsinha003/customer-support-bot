@@ -11,15 +11,15 @@ A modern, intelligent customer support chatbot powered by Google Gemini AI with 
 
 ### Chat Interface
 ![Professional Chat Interface](screenshots/chat-interface.png)
-*Clean, modern chat interface with professional purple gradient design. Shows the initial bot greeting and ready-to-use message input field.*
+*Clean, modern chat interface with professional dark gradient design. Shows the initial bot greeting with "Hello! I'm here to help you. How can I assist you today?" and ready-to-use message input field with Send button and New Conversation option.*
 
 ### AI Response Example  
-![AI Response with Formatting](screenshots/ai-response-example.png)
-*Example of intelligent AI response to "What's your refund policy?" showing 90% confidence, structured formatting with numbered steps, and specific policy details including timeframes and restrictions.*
+![AI Response with Exchange Policy](screenshots/ai-response-example.png)
+*Example of intelligent AI response to "what's your exchange policy?" showing comprehensive exchange policy information with 30-day timeframe, product coverage details, and follow-up engagement question asking about specific products.*
 
 ## 🎬 **Demo Video**
 
-https://github.com/user-attachments/assets/f26cca12-90ea-4c56-941f-7d4b941ea06b
+![Demo Video](demo-video.mp4)
 
 **Video showcases:**
 - Complete chat interface walkthrough
@@ -370,7 +370,7 @@ cp .env.example .env
 # GEMINI_API_KEY=your_actual_api_key_here
 ```
 
-### 3. Install Dependencies
+### 3. Install Dependenciescls
 ```bash
 cd backend
 pip install -r requirements.txt

@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8001/api';
+const API_BASE_URL = 'http://localhost:8002/api';
 
 let currentSessionId = null;
 let isWaitingForResponse = false;
@@ -71,7 +71,7 @@ async function createNewSession() {
         console.error('Error creating session:', error);
         statusDisplay.textContent = 'Connection failed';
         statusDisplay.className = 'status disconnected';
-        alert('Failed to connect to server. Please make sure the backend is running on http://localhost:8001');
+        alert('Failed to connect to server. Please make sure the backend is running on http://localhost:8002');
     }
 }
 
